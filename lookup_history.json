@@ -1,0 +1,98 @@
+[
+    {
+        "valid": false,
+        "number": "9152642811",
+        "local_format": "",
+        "international_format": "",
+        "country_prefix": "",
+        "country_code": "",
+        "country_name": "",
+        "location": "",
+        "carrier": "",
+        "line_type": "N/A"
+    },
+    {
+        "valid": true,
+        "number": "919152642811",
+        "local_format": "09152642811",
+        "international_format": "+919152642811",
+        "country_prefix": "+91",
+        "country_code": "IN",
+        "country_name": "India (Republic of)",
+        "location": "Mumbai",
+        "carrier": "Vodafone Idea Ltd (formerly Vodafone India Ltd)",
+        "line_type": "mobile"
+    },
+    {
+        "valid": true,
+        "number": "919152642811",
+        "local_format": "09152642811",
+        "international_format": "+919152642811",
+        "country_prefix": "+91",
+        "country_code": "IN",
+        "country_name": "India (Republic of)",
+        "location": "Mumbai",
+        "carrier": "Vodafone Idea Ltd (formerly Vodafone India Ltd)",
+        "line_type": "mobile"
+    },
+    {
+        "valid": true,
+        "number": "919820733326",
+        "local_format": "09820733326",
+        "international_format": "+919820733326",
+        "country_prefix": "+91",
+        "country_code": "IN",
+        "country_name": "India (Republic of)",
+        "location": "Mumbai",
+        "carrier": "Vodafone Idea Ltd (formerly Vodafone India Ltd)",
+        "line_type": "mobile"
+    },
+    {
+        "valid": true,
+        "number": "917718842811",
+        "local_format": "07718842811",
+        "international_format": "+917718842811",
+        "country_prefix": "+91",
+        "country_code": "IN",
+        "country_name": "India (Republic of)",
+        "location": "Mumbai",
+        "carrier": "Bharti Airtel Ltd",
+        "line_type": "mobile"
+    },
+    {
+        "valid": true,
+        "number": "917718842811",
+        "local_format": "07718842811",
+        "international_format": "+917718842811",
+        "country_prefix": "+91",
+        "country_code": "IN",
+        "country_name": "India (Republic of)",
+        "location": "Mumbai",
+        "carrier": "Bharti Airtel Ltd",
+        "line_type": "mobile"
+    },
+    {
+        "valid": true,
+        "number": "919152642811",
+        "local_format": "09152642811",
+        "international_format": "+919152642811",
+        "country_prefix": "+91",
+        "country_code": "IN",
+        "country_name": "India (Republic of)",
+        "location": "Mumbai",
+        "carrier": "Vodafone Idea Ltd (formerly Vodafone India Ltd)",
+        "line_type": "mobile"
+    },
+    {
+        "valid": true,
+        "number": "919833700419",
+        "local_format": "09833700419",
+        "international_format": "+919833700419",
+        "country_prefix": "+91",
+        "country_code": "IN",
+        "country_name": "India (Republic of)",
+        "location": "Mumbai",
+        "carrier": "Vodafone Idea Ltd (formerly Vodafone India Ltd)",
+        "line_type": "mobile"
+    }
+]
